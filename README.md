@@ -6,7 +6,9 @@ WindowsFormsAero is a *Windows Forms* library that provides native controls with
 Many controls—such as buttons, command buttons, and textboxes—support the functional and stylistic features introduced with “Aero”.
 For instance shield icons, cue banners, and so on.
 
-WindowsFormsAero was started by [Marco Minerva](https://github.com/marcominerva) in January 2007 and was initially hosted on [Codeplex](http://windowsformsaero.codeplex.com).
+This is a fork of WindowsFormsAero that is essentially a continuation of the project that adds more controls, fixes some bugs and also adds some QoL.
+
+WindowsFormsAero was started by [Marco Minerva](https://github.com/marcominerva) in January 2007 and was initially hosted on [Codeplex](http://windowsformsaero.codeplex.com). This fork was started by patricktbp in April 2025.
 
 The WindowsFormsAero icon has been kindly provided by&nbsp;[Enner&nbsp;Pérez](https://github.com/ennerperez).
 
